@@ -1,2 +1,2 @@
 # OPEx18
-Pojęcie dziedziczenia i polimorfizmu na przykładzie systemów przejazdowych.
+The concept of inheritance and polymorphism on the example of level crossing systems.
